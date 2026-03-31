@@ -130,30 +130,28 @@ Recognized by **Shell International** and featured in regional innovation and su
 We are proud to be supported by organizations that believe in the next generation of Saudi engineers.
 
 ### Current Sponsors
-| | Sponsor | Category |
-|-|---------|----------|
-| | `[Sponsor Name]` | Title Sponsor |
-| | `[Sponsor Name]` | Gold Sponsor |
-| | `[Sponsor Name]` | Silver Sponsor |
+| Sponsor | Category |
+|---------|----------|
+| **[CEER Motors](https://www.ceermotors.com)** | Title Sponsor |
 
 ### Technology Partners
-| | Partner | Contribution |
-|-|---------|-------------|
-| | `[Partner Name]` | Computing & AI Hardware |
-| | `[Partner Name]` | Sensors & Perception |
-| | `[Partner Name]` | Embedded Systems |
+| Partner | Contribution |
+|---------|-------------|
+| `[Partner Name]` | Computing & AI Hardware |
+| `[Partner Name]` | Sensors & Perception |
+| `[Partner Name]` | Embedded Systems |
 
 ### Logistics & Innovation Partners
-| | Partner | Role |
-|-|---------|------|
-| | `[Partner Name]` | Logistics Support |
-| | `[Partner Name]` | Innovation Partner |
+| Partner | Role |
+|---------|------|
+| `[Partner Name]` | Logistics Support |
+| `[Partner Name]` | Innovation Partner |
 
 ### Previous Sponsors
-| | Sponsor |
-|-|---------|
-| | `[Sponsor Name]` |
-| | `[Sponsor Name]` |
+| Sponsor |
+|---------|
+| **Jahez** |
+| **PSDSARC** |
 
 > Interested in sponsoring PSU Eco Team? Reach out — let's build the future of mobility together.
 
